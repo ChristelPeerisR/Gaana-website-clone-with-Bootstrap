@@ -1,4 +1,4 @@
-# Gaana.com
+# Gaana website clone with Bootstrap
 
 Screenshots of proposed website
 
